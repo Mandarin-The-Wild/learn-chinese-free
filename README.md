@@ -19,6 +19,7 @@ Kept by [Mandarin The Wild](https://mandarinthewild.com), so our own free tools 
 
 - [Tone pairs](https://mandarinthewild.com/tone-pairs) (ours): the 20 two-syllable tone pairs, each a real word with its pitch drawn on it, to hear in a female or male voice.
 - [Tone practice](https://mandarinthewild.com/tone-practice) (ours): hear a real word, say it, and see your pitch drawn over a native speaker’s. Your voice stays on your device.
+- [Chinese text to speech](https://mandarinthewild.com/chinese-text-to-speech) (ours): paste Chinese and hear it read aloud, slow or at normal speed, with pinyin above every word and each word lit as it’s said.
 - [Tone sandhi checker](https://mandarinthewild.com/tone-sandhi) (ours): paste Mandarin and see every tone that changes when it’s said (你好 ní hǎo, 一个 yí gè, 不是 bú shì), with the rule.
 - [Forvo](https://forvo.com/): words recorded by native speakers.
 - [Hacking Chinese on tones](https://www.hackingchinese.com/tag/tones/): articles on hearing and saying the tones.
