@@ -21,6 +21,7 @@ Kept by [Mandarin The Wild](https://mandarinthewild.com), so our own free tools 
 - [Tone practice](https://mandarinthewild.com/tone-practice) (ours): hear a real word, say it, and see your pitch drawn over a native speaker’s. Your voice stays on your device.
 - [Chinese text to speech](https://mandarinthewild.com/chinese-text-to-speech) (ours): paste Chinese and hear it read aloud, slow or at normal speed, with pinyin above every word and each word lit as it’s said.
 - [Tone sandhi checker](https://mandarinthewild.com/tone-sandhi) (ours): paste Mandarin and see every tone that changes when it’s said (你好 ní hǎo, 一个 yí gè, 不是 bú shì), with the rule.
+- [Numbers listening practice](https://mandarinthewild.com/chinese-numbers-listening) (ours): hear numbers, prices, phone numbers, dates and times said in Mandarin and type them, ten against the clock.
 - [Forvo](https://forvo.com/): words recorded by native speakers.
 - [Hacking Chinese on tones](https://www.hackingchinese.com/tag/tones/): articles on hearing and saying the tones.
 
@@ -33,10 +34,12 @@ Kept by [Mandarin The Wild](https://mandarinthewild.com), so our own free tools 
 - [Chinese name to pinyin](https://mandarinthewild.com/chinese-name-to-pinyin) (ours): a name in characters written the way names are in English, with family-name readings like 曾 Zēng and passport capitals.
 - [Pinyin to Chinese](https://mandarinthewild.com/pinyin-to-chinese) (ours): type pinyin, with tones or without, and pick each word in characters with its meaning, without installing a keyboard.
 - [How to type tone marks](https://mandarinthewild.com/pinyin-tone-marks) (ours).
+- [Chinese typing test](https://mandarinthewild.com/chinese-typing-test) (ours): type the pinyin of real HSK words against the clock, with or without tones, and see your characters a minute.
 
 ## Characters
 
 - [Stroke order](https://mandarinthewild.com/stroke-order) (ours): thousands of characters animated stroke by stroke, with a printable practice sheet.
+- [Character worksheet maker](https://mandarinthewild.com/chinese-character-worksheet) (ours): type any characters and print a practice sheet with the stroke order and 田字格 or 米字格 boxes to trace.
 - [Most common Chinese characters](https://mandarinthewild.com/most-common-chinese-characters) (ours): counted in real Chinese web text, with pinyin and meaning.
 - [Chinese radicals](https://mandarinthewild.com/chinese-radicals) (ours): the 214 radicals with their side forms, ranked by how many HSK characters use each.
 - [Simplified to traditional](https://mandarinthewild.com/simplified-to-traditional) and [traditional to simplified](https://mandarinthewild.com/traditional-to-simplified) (ours): converted word by word, so 头发 becomes 頭髮 and 发现 發現.
@@ -66,6 +69,8 @@ Kept by [Mandarin The Wild](https://mandarinthewild.com), so our own free tools 
 
 - [HSK levels explained](https://mandarinthewild.com/hsk-levels) (ours): the words and characters at each level of the 2025 syllabus, with full lists.
 - [Measure words](https://mandarinthewild.com/measure-words) (ours): the measure word for any noun.
+- [Printable flashcards](https://mandarinthewild.com/chinese-flashcards) (ours): any HSK level or your own words, printed two-sided or to fold, or turned over and heard on screen.
+- [Vocabulary list from a text](https://mandarinthewild.com/chinese-vocabulary-list) (ours): paste Chinese and get every word with its pinyin and the meaning it has there, ready for Anki or Quizlet.
 - [Level test](https://mandarinthewild.com/level-test) (ours): ten real sentences; tap the words you don’t know and get your HSK level in about two minutes.
 - [Anki](https://apps.ankiweb.net/): free spaced-repetition flashcards.
 
