@@ -28,6 +28,8 @@ Kept by [Mandarin The Wild](https://mandarinthewild.com), so our own free tools 
 - [Pinyin chart](https://mandarinthewild.com/pinyin-chart) (ours): every Mandarin syllable, each with its four tones to hear in a female or male voice.
 - [Pinyin trainer](https://mandarinthewild.com/pinyin-trainer) and [pinyin test](https://mandarinthewild.com/pinyin-test) (ours): hear a real word and name its tones or spell it; the test gives a score with the tones you hear best and worst.
 - [Pinyin converter](https://mandarinthewild.com/pinyin-converter) (ours): paste Chinese and get pinyin above every character, word by word, with the right reading for words like 行 and 长.
+- [Zhuyin converter](https://mandarinthewild.com/zhuyin-converter) (ours): Chinese, or pinyin, to zhuyin (bopomofo), and zhuyin back to pinyin.
+- [Chinese name to pinyin](https://mandarinthewild.com/chinese-name-to-pinyin) (ours): a name in characters written the way names are in English, with family-name readings like 曾 Zēng and passport capitals.
 - [Pinyin to Chinese](https://mandarinthewild.com/pinyin-to-chinese) (ours): type pinyin, with tones or without, and pick each word in characters with its meaning, without installing a keyboard.
 - [How to type tone marks](https://mandarinthewild.com/pinyin-tone-marks) (ours).
 
@@ -37,6 +39,7 @@ Kept by [Mandarin The Wild](https://mandarinthewild.com), so our own free tools 
 - [Most common Chinese characters](https://mandarinthewild.com/most-common-chinese-characters) (ours): counted in real Chinese web text, with pinyin and meaning.
 - [Chinese radicals](https://mandarinthewild.com/chinese-radicals) (ours): the 214 radicals with their side forms, ranked by how many HSK characters use each.
 - [Simplified to traditional](https://mandarinthewild.com/simplified-to-traditional) and [traditional to simplified](https://mandarinthewild.com/traditional-to-simplified) (ours): converted word by word, so 头发 becomes 頭髮 and 发现 發現.
+- [Chinese character counter](https://mandarinthewild.com/chinese-character-counter) and [word segmentation](https://mandarinthewild.com/chinese-word-segmentation) (ours): count the characters and words in a Chinese text, or split it into words.
 - [Hanzi Writer](https://hanziwriter.org/): an open-source library for stroke animations and quizzes.
 - [Arch Chinese](https://www.archchinese.com/): character worksheets you can print.
 
