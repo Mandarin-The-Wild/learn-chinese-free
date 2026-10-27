@@ -22,6 +22,7 @@ Kept by [Mandarin The Wild](https://mandarinthewild.com), so our own free tools 
 - [Chinese text to speech](https://mandarinthewild.com/chinese-text-to-speech) (ours): paste Chinese and hear it read aloud, slow or at normal speed, with pinyin above every word and each word lit as it’s said.
 - [Tone sandhi checker](https://mandarinthewild.com/tone-sandhi) (ours): paste Mandarin and see every tone that changes when it’s said (你好 ní hǎo, 一个 yí gè, 不是 bú shì), with the rule.
 - [Numbers listening practice](https://mandarinthewild.com/chinese-numbers-listening) (ours): hear numbers, prices, phone numbers, dates and times said in Mandarin and type them, ten against the clock.
+- [Mandarin minimal pairs](https://mandarinthewild.com/pinyin-minimal-pairs) (ours): hear zh or z, an or ang, ü or u in real recordings and pick which, with a page for each set of sounds.
 - [Forvo](https://forvo.com/): words recorded by native speakers.
 - [Hacking Chinese on tones](https://www.hackingchinese.com/tag/tones/): articles on hearing and saying the tones.
 
